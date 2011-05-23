@@ -36,6 +36,12 @@ h1, h2, h3, h4, h5, h6, .slide {
   border: 20px solid #014d65;
 }
 
+.smimg img {
+    height: auto;
+    width: 60%;
+    padding: 0.5em;
+}
+
 h1 {
   font-weight: bold;
 }
