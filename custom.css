@@ -44,6 +44,7 @@ h1, h2, h3, h4, h5, h6, .slide {
 
 h1 {
   font-weight: bold;
+  font-size: 4.5em;
 }
 
 .listcode ul li { 
@@ -61,7 +62,11 @@ h1 {
 .list ul li strong {
   color: #be260d;
   font-weight: bolder;
-  font-size: 1.3em;
+  font-size: 1.1em;
+}
+
+.list ul li em {
+  color: #be260d;
 }
 
 .title h1 {
@@ -182,4 +187,37 @@ table.rdata tr td.no-wd {
 .tiny pre code { 
   font-size: 25px;
   color: #000;
+}
+
+.bullets ul {
+    font-size: 2.7em;
+}
+
+.bullets ol {
+    font-size: 2.7em;
+}
+
+.bullets ul li {
+    padding: 15px;
+}
+
+.smbullets ul li {
+    padding: 20px;
+}
+
+.list ul {
+    font-size: 2.3em;
+    list-style-type: disc;
+    margin: 0 0 1em 1em;
+}
+
+.list ol {
+    font-size: 2.3em;
+    list-style-type: decimal;
+    margin: 0 0 1em 3em;
+}
+
+.list ol li {
+    padding: 0.2em;
+    text-align: left;
 }
