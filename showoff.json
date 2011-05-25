@@ -1,3 +1,6 @@
-{ "name": "Hands on Virtualization with Ganeti", "sections": 
-    [ {"section":"start"} ]
+{   "name": "Hands on Virtualization with Ganeti",
+    "sections": [ 
+        {"section":"start"},
+        {"section":"introduction"}
+    ]
 }
