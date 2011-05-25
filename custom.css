@@ -221,3 +221,32 @@ table.rdata tr td.no-wd {
     padding: 0.2em;
     text-align: left;
 }
+
+code {
+    font-family: "Liberation Mono", monospace;
+}
+
+.commandline pre {
+    font-size: 16pt;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.85);
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.9);
+}
+
+.commandline code.command {
+    color: white;
+}
+
+.commandline code.result {
+    color: lime;
+}
+
+.center code, pre {
+    color: white;
+    text-align: left;
+}
+
