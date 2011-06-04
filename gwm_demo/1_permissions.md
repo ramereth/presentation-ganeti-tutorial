@@ -7,9 +7,11 @@
 # Personas
 ### Users can act on behalf of groups
 
-!SLIDE center
+!SLIDE center smbullets list
 
-## Ownership vs. Permissions
+# Ownership 
+# vs. 
+# Permissions
 * Ownership is for book keeping
 * Permissions let you do things
 

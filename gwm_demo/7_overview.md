@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE smbullets list transition=fade
 
 # Overview
 
@@ -8,25 +8,25 @@
 * Errors
 * Admin Tasks
 
-!SLIDE
+!SLIDE transition=fade
 
 # Cluster Status
 
 TODO: image here
 
-!SLIDE
+!SLIDE transition=fade
 
 # Instance Status
 
 TODO image here
 
-!SLIDE
+!SLIDE transition=fade
 
 # Resource Usage
 
 TODO: image here
 
-!SLIDE
+!SLIDE transition=fade
 
 # ERRORS
 

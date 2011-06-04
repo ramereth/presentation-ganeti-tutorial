@@ -1,8 +1,8 @@
-!SLIDE bullets
+!SLIDE bullets list
 
 # Future Features
 
-* Instance Template
+* Instance Template 
 * Instance Defaults
 * API
-* Much more!
+* And much more!

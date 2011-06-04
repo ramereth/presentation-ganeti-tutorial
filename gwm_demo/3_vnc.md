@@ -1,17 +1,12 @@
-!SLIDE bullets transition=fade
+!SLIDE center list bullets transition=fade
 
-# VNC
+![vm-console](vm-console.png)
 
-TODO: put an image here.
-
-* noVNC - HTML5 + Web Sockets
-* VNC Auth Proxy - forward VNC Ports
-
-!SLIDE transition=fade
+!SLIDE center smbullets list transition=fade
 
 # VNC Auth Proxy
 
-TODO: put an image here
+![vnc1](vnc1.png)
 
 * allows proxying through firewall / VPN
 * no need for passwords
