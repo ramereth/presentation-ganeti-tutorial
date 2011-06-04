@@ -2,6 +2,10 @@ h1, h2, h3, h4, h5, h6, .slide {
   font-family: "Trebuchet MS",Ubuntu,"Liberation Sans",FreeSans,sans-serif;
 }
 
+h1, h2, h3 {
+    margin: 0.5em 0.3em;
+}
+
 .slide {
   background: -webkit-gradient(linear, left top, left bottom, from(#fff), to(#CEEAF9));
   background: -moz-linear-gradient(top, #fff, #CEEAF9);
@@ -36,8 +40,15 @@ h1, h2, h3, h4, h5, h6, .slide {
   border: 20px solid #014d65;
 }
 
+.smimg img {
+    height: auto;
+    width: 60%;
+    padding: 0.5em;
+}
+
 h1 {
   font-weight: bold;
+  font-size: 4.5em;
 }
 
 .listcode ul li { 
@@ -55,7 +66,11 @@ h1 {
 .list ul li strong {
   color: #be260d;
   font-weight: bolder;
-  font-size: 1.3em;
+  font-size: 1.1em;
+}
+
+.list ul li em {
+  color: #be260d;
 }
 
 .title h1 {
@@ -176,4 +191,74 @@ table.rdata tr td.no-wd {
 .tiny pre code { 
   font-size: 25px;
   color: #000;
+}
+
+.bullets ul {
+    font-size: 2.7em;
+}
+
+.bullets ol {
+    font-size: 2.7em;
+}
+
+.bullets ul li {
+    padding: 15px;
+}
+
+.smbullets ul li {
+    padding: 20px;
+}
+
+.list ul {
+    font-size: 2.3em;
+    list-style-type: disc;
+    margin: 0 0 1em 1em;
+}
+
+.list ol {
+    font-size: 2.3em;
+    list-style-type: decimal;
+    margin: 0 0 1em 3em;
+}
+
+.list ol li {
+    padding: 0.2em;
+    text-align: left;
+}
+
+code {
+    font-family: "Liberation Mono", monospace;
+}
+
+.commandline pre {
+    font-size: 16pt;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.85);
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.9);
+}
+
+.commandline code.command {
+    color: white;
+}
+
+.commandline code.result {
+    color: lime;
+}
+
+.center code, pre {
+    color: white;
+    text-align: left;
+}
+
+blockquote {
+    font-size: 2.3em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    padding-left: 15px;
+    border-left: 3px solid #ccc;
 }

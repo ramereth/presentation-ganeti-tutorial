@@ -1,5 +1,6 @@
-{ "name": "Hands on Virtualization with Ganeti", "sections": 
-    [ 
+{   "name": "Hands on Virtualization with Ganeti",
+    "sections": [ 
+        {"section":"start"},
         {"section":"introduction"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
