@@ -40,10 +40,30 @@ h1, h2, h3 {
   border: 20px solid #014d65;
 }
 
-.smimg img {
+img {
+    position: relative;
+    width: 90%;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    /* Set the height dynamically depending on the image's current width,
+     * keeping the aspect ratio */
+    height: auto;
+}
+
+.smimg img:first-child {
     height: auto;
     width: 60%;
     padding: 0.5em;
+}
+
+.sm-vert-img img:first-child {
+    height: 80%;
+    width: auto;
+}
+
+.right-img img:first-child {
+    float: right;
+    padding-right: 15%;
 }
 
 h1 {
