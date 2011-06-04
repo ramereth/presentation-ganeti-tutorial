@@ -1,4 +1,4 @@
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # Importing Clusters
 

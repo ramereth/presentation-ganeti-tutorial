@@ -1,5 +1,5 @@
-!SLIDE
+!SLIDE center transition=fade
 
 # Logging
 
-TODO: picture here
+![object_log](object_log.png)

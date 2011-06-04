@@ -1,4 +1,4 @@
-!SLIDE smbullets list center
+!SLIDE smbullets list center transition=fade
 
 ![gwm_logo](gwm_logo.png)
 

@@ -1,5 +1,5 @@
-!SLIDE
+!SLIDE center transition=fade
 
 # Cache System
 
-TODO: Image Here
+![ganeti_cache](ganeti_cache.png)

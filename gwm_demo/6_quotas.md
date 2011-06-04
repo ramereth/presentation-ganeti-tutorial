@@ -1,16 +1,16 @@
-!SLIDE
+!SLIDE transition=fade
 
 # Quotas
 
 ## Per Persona, Per Cluster
 
-!SLIDE
+!SLIDE transition=fade
 
 # Cluster Defaults
 
 TODO: image here
 
-!SLIDE center
+!SLIDE center transition=fade
 
 ## Overriding Cluster Quota
 

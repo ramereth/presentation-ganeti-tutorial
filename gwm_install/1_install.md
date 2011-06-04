@@ -12,12 +12,14 @@
 * *VirtualEnv* - Python virtual environments
 * *Git* - Distributed Source Control
 
+
 !SLIDE commandline incremental transition=fade
 
 # Fabric Installer
 
     $ fab dev deploy
     $ fab prod deploy
+
 
 !SLIDE bullets list transition=fade
 
@@ -26,7 +28,8 @@
 * Database: sqlite by default
 * Outgoing Mail
 * Cache Backend
-    
+
+
 !SLIDE commandline incremental transition=fade
 
 # Activate Virtualenv

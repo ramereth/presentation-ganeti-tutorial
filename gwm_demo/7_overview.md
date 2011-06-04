@@ -8,26 +8,28 @@
 * Errors
 * Admin Tasks
 
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # Cluster Status
 
-TODO: image here
+![overview-clusters](overview-clusters.png)
 
-!SLIDE transition=fade
+
+!SLIDE center transition=fade
 
 # Instance Status
 
-TODO image here
+![overview-instances](overview-instances.png)
 
-!SLIDE transition=fade
+
+!SLIDE center transition=fade
 
 # Resource Usage
 
 TODO: image here
 
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # ERRORS
 
-TODO: image here.
+![overview-errors](overview-errors.png)
