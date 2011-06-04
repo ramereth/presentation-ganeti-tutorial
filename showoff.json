@@ -1,6 +1,7 @@
 {   "name": "Hands on Virtualization with Ganeti",
     "sections": [ 
         {"section":"start"},
-        {"section":"introduction"}
+        {"section":"introduction"},
+        {"section":"base_architecture"}
     ]
 }
