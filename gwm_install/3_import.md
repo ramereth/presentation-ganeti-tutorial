@@ -4,7 +4,7 @@
 
 ![cluster_add](cluster_add.png)
 
-!SLIDE bullets transition=fade
+!SLIDE bullets list transition=fade
 
 # Import Tools
 

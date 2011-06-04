@@ -3,13 +3,14 @@
 # Ganeti Web Manager
 ### Installation
 
-!SLIDE bullets transition=fade
+!SLIDE bullets list transition=fade
 
 # Dependencies
-* Python >=2.5, 2.7 recommended
-* Pip - Python package installer
-* Fabric - Install scripts
-* VirtualEnv - Python virtual environments
+* *Python* >=2.5, 2.7 recommended
+* *Pip* - Python package installer
+* *Fabric* - Install scripts
+* *VirtualEnv* - Python virtual environments
+* *Git* - Distributed Source Control
 
 !SLIDE commandline incremental transition=fade
 
@@ -18,11 +19,11 @@
     $ fab dev deploy
     $ fab prod deploy
 
-!SLIDE bullets transition=fade
+!SLIDE bullets list transition=fade
 
-# Settings
+# Settings 
 
-* Database: sqlite by defauilt
+* Database: sqlite by default
 * Outgoing Mail
 * Cache Backend
     
@@ -39,5 +40,4 @@
 
 # Create Database
 
-    $ python manage.py syncdb
-    $ python manage.py migrate
+    $ python manage.py syncdb --migrate
