@@ -1,6 +1,6 @@
-!SLIDE bullets
+!SLIDE smbullets list center
 
 ![gwm_logo](gwm_logo.png)
 
-* Easier management of Ganeti
-* A Client facing service
+* Easy management of Ganeti
+* _Client_ facing service
