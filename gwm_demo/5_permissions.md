@@ -1,11 +1,16 @@
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # Permissions
 
-!SLIDE transition=fade
+![permissions](permissions.png)
+
+!SLIDE center transition=fade
 
 # Personas
 ### Users can act on behalf of groups
+
+
+![personas](personas.png)
 
 !SLIDE center smbullets list transition=fade
 

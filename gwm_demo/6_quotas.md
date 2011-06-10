@@ -1,14 +1,9 @@
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # Quotas
 
 ## Per Persona, Per Cluster
 
-!SLIDE transition=fade
-
-# Cluster Defaults
-
-TODO: image here
 
 !SLIDE center transition=fade
 
