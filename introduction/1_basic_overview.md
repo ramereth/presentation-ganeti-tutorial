@@ -8,7 +8,7 @@
 * Using commodity hardware
 * Utilizes local storage
 
-!SLIDE center
+!SLIDE limg center
 
 # Ganeti Cluster
 
