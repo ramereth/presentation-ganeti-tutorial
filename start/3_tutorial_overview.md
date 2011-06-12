@@ -6,5 +6,5 @@
 * Installation
 * Virtual machine deployment
 * Expanding a cluster
-* Project Roadmap
+* Dealing with failures
 * Ganeti Web Manager

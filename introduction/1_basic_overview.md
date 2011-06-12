@@ -6,13 +6,10 @@
 * Built on top of existing OSS hypervisors
 * Fast & simple recovery after physical failures
 * Using commodity hardware
+* Utilizes local storage
 
-!SLIDE smbullets center smimg
+!SLIDE center
 
-# Architecture
-
-* **Cluster** - group of nodes
-* **Node** - physical host
-* **Instance** - virtual machine
+# Ganeti Cluster
 
 ![ganeti-cluster](ganeti-cluster.png)
