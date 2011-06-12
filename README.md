@@ -19,45 +19,49 @@ Here's an outline of the tutorial as it stands now.
     1. Basic overview
     2. Project history, background, and motivation
     3. Tutorial overview
-2. Comparing to other projects
+2. Hands-on Setup
+    1. VM images
+    2. How the Hands-on VMs are setup
+3. Comparing to other projects
     1. Openstack
     2. Eucalyptus
     3. OpenNebula 
-3. Base architecture
+4. Base architecture
     1. Components
     2. Clusters, Nodes, & Instances
     3. Storage Management
     4. Network setup
-4. Planning your cluster
-    1. Hardware considerations
+5. Planning your cluster
+    1. Hardware Planning
     2. Operating system
     3. Network
-5. Installing Ganeti
-    1. Installing the Hypervisor
-    2. Installing optional software
-    3. Setting up the network
-    4. Configure LVM
-    5. Install Ganeti
-    6. Install OS Definition
-    7. Initialize Ganeti
-    8. Post-install steps
-    9. Common setup issues
-6. Virtual machines
+6. Installing Ganeti
+    1. Operating System Setup
+    2. Installing the Hypervisor
+    3. Installing optional software
+    4. Setting up the network
+    5. Configure LVM
+    6. Install Ganeti
+    7. Install OS Definition
+    8. Initialize Ganeti
+    9. Post-install steps
+    10. Common setup issues
+7. Virtual machines
     1. Overview
     2. Pros/Cons
     3. Deployment strategies
     4. VM Creation
     5. Common VM operations
-7. Allocation tools
+8. Allocation tools
     1. Htools
     2. hail
     3. hspace
     4. hbal
-8. Dealing with failures
+9. Dealing with failures
     1. Node failures
     2. Disk failures
     3. Split brain
-9. Other commands
+10. Other commands
     1. Cluster info
     2. Modifying cluster defaults
     3. Node info
@@ -65,26 +69,26 @@ Here's an outline of the tutorial as it stands now.
     5. Exporting/Importing VMs
     6. Job queue
     7. Node Groups
-10. Expanding a cluster
+11. Expanding a cluster
     1. Planning
     2. Adding node
     3. Rebalancing cluster
-11. Upgrading Ganeti
+12. Upgrading Ganeti
     1. Common practices
     2. Procedure
     3. Potential issues
-12. Extending with the RAPI
+13. Extending with the RAPI
     1. Summary
     2. Common uses
 14. Project Roadmap
     1. Release schedule
     2. Upcoming features 
-13. Ganeti Web Manager
+15. Ganeti Web Manager
     1. Overview, project history, motivation
     2. Installation requirements
     3. Installation
     4. Using GWM
-14. Conclusion
+16. Conclusion
 
 Credits
 =======

@@ -2,6 +2,9 @@
     "sections": [ 
         {"section":"start"},
         {"section":"introduction"},
+        {"section":"base_architecture"},
+        {"section":"planning_your_cluster"},
+        {"section":"installing_ganeti"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
         {"section":"gwm_demo"}
