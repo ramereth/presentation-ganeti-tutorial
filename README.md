@@ -38,7 +38,7 @@ Here's an outline of the tutorial as it stands now.
 6. Installing Ganeti
     1. Operating System Setup
     2. Installing the Hypervisor
-    3. Installing optional software
+    3. Installing DRBD 
     4. Setting up the network
     5. Configure LVM
     6. Install Ganeti
