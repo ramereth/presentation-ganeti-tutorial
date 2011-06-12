@@ -14,17 +14,6 @@
     /dev/sda2   /       10-20G
     /dev/sda3   LVM     rest, named ganeti
 
-!SLIDE codeblock bigcode
-
-# DRBD Module Setup
-
-    # Number of DRBD instances, this allows for 128
-    drbd.minor_count=255
-
-    # Ganeti initializes DRBD, so tell the module to
-    # ignore the helper
-    drbd.usermode_helper=/bin/true
-
 !SLIDE bullets
 
 # Hostname Issues
