@@ -3,6 +3,7 @@
         {"section":"start"},
         {"section":"introduction"},
         {"section":"base_architecture"},
+        {"section":"planning_your_cluster"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
         {"section":"gwm_demo"}
