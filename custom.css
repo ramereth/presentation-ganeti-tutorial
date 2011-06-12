@@ -270,6 +270,17 @@ code {
     border: 1px solid rgba(0, 0, 0, 0.9);
 }
 
+.codeblock pre {
+    font-size: 16pt;
+    margin-right: 40px;
+    margin-left: 40px;
+    padding-bottom: 10px;
+    padding: 10px 20px;
+    background: rgba(0, 0, 0, 0.85);
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.9);
+}
+
 .commandline code.command {
     color: white;
 }

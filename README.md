@@ -32,19 +32,20 @@ Here's an outline of the tutorial as it stands now.
     3. Storage Management
     4. Network setup
 5. Planning your cluster
-    1. Hardware considerations
+    1. Hardware Planning
     2. Operating system
     3. Network
 6. Installing Ganeti
-    1. Installing the Hypervisor
-    2. Installing optional software
-    3. Setting up the network
-    4. Configure LVM
-    5. Install Ganeti
-    6. Install OS Definition
-    7. Initialize Ganeti
-    8. Post-install steps
-    9. Common setup issues
+    1. Operating System Setup
+    2. Installing the Hypervisor
+    3. Installing optional software
+    4. Setting up the network
+    5. Configure LVM
+    6. Install Ganeti
+    7. Install OS Definition
+    8. Initialize Ganeti
+    9. Post-install steps
+    10. Common setup issues
 7. Virtual machines
     1. Overview
     2. Pros/Cons
