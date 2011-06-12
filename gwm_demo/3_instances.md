@@ -1,17 +1,14 @@
-!SLIDE transition=fade
+!SLIDE full-screen-img center transition=fade
 
-# Instances
-
-!SLIDE center transition=fade
-
-TODO: list
+![instance_detail](instance-detail.png)
 
 
-!SLIDE center transition=fade
+!SLIDE full-screen-img center transition=fade
 
 ![instance-create](instance-create.png)
 
 
-!SLIDE center transition=fade
+!SLIDE full-screen-img center transition=fade
 
-TODO: instance create job
+![instance-create](instance-create-job.png)
+

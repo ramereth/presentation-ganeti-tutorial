@@ -1,4 +1,4 @@
-!SLIDE center list bullets transition=fade
+!SLIDE full-screen-img center list bullets transition=fade
 
 ![vm-console](vm-console.png)
 

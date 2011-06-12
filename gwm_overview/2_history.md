@@ -7,8 +7,6 @@
 * Version 0.5 - 02-03-2011
 * Version 0.6 - 03-04-2011
 * Version 0.7 - _June 2011_
-* Version 0.8 - _July 2011_
-* Version 0.9 - _August 2011_
 
 !SLIDE smbullets list transition=fade
 

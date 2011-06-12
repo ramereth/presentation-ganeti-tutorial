@@ -7,6 +7,6 @@
 
 !SLIDE center transition=fade
 
-## Overriding Cluster Quota
+## Overriding Default Quota
 
 ![custom_quota](custom_quota.png)
