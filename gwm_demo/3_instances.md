@@ -1,11 +1,6 @@
-!SLIDE transition=fade
-
-# Instances
-
 !SLIDE center transition=fade
 
-TODO: list
-
+![instance_detail](instance-detail.png)
 
 !SLIDE center transition=fade
 
@@ -14,4 +9,5 @@ TODO: list
 
 !SLIDE center transition=fade
 
-TODO: instance create job
+![instance-create](instance-create-job.png)
+
