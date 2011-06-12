@@ -46,7 +46,6 @@ Here's an outline of the tutorial as it stands now.
     1. Install OS Definition
     1. Initialize Ganeti
     1. Post-install steps
-    1. Common setup issues
 1. Virtual machines
     1. Overview
     1. Pros/Cons
