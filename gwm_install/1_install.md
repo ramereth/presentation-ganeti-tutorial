@@ -1,7 +1,9 @@
-!SLIDE transition=fade
+!SLIDE center transition=fade
 
 # Ganeti Web Manager
 ### Installation
+
+![package](package.png)
 
 !SLIDE bullets list transition=fade
 
@@ -19,12 +21,3 @@
 
     $ fab dev deploy
     $ fab prod deploy
-
-
-!SLIDE commandline incremental transition=fade
-
-# Activate Virtualenv
-
-    $ source bin/activate 
-    $ which python
-    /home/peter/wrk/ganeti_webmgr/bin/python
