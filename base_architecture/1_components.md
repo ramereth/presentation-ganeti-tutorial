@@ -8,5 +8,4 @@
 * various python modules
 * DRBD
 * LVM
-* KVM, Xen, or LXC*
-
+* KVM, Xen, or LXC
