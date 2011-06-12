@@ -17,78 +17,79 @@ Here's an outline of the tutorial as it stands now.
 
 1. Introduction to Ganeti
     1. Basic overview
-    2. Project history, background, and motivation
-    3. Tutorial overview
-2. Hands-on Setup
+    1. Project history, background, and motivation
+    1. Tutorial overview
+1. Hands-on Setup
     1. VM images
-    2. How the Hands-on VMs are setup
-3. Comparing to other projects
+    1. How the Hands-on VMs are setup
+1. Comparing to other projects
     1. Openstack
-    2. Eucalyptus
-    3. OpenNebula 
-4. Base architecture
+    1. Eucalyptus
+    1. OpenNebula 
+1. Base architecture
     1. Components
-    2. Clusters, Nodes, & Instances
-    3. Storage Management
-    4. Network setup
-5. Planning your cluster
+    1. Clusters, Nodes, & Instances
+    1. Storage Management
+    1. Network setup
+1. Planning your cluster
     1. Hardware Planning
-    2. Operating system
-    3. Network
-6. Installing Ganeti
+    1. Operating system
+    1. Network
+1. Pre-installation Steps
     1. Operating System Setup
-    2. Installing the Hypervisor
-    3. Installing DRBD 
-    4. Setting up the network
-    5. Configure LVM
-    6. Install Ganeti
-    7. Install OS Definition
-    8. Initialize Ganeti
-    9. Post-install steps
-    10. Common setup issues
-7. Virtual machines
+    1. Installing the Hypervisor
+    1. Installing DRBD 
+    1. Network Setup
+    1. Configuring LVM
+1. Installing Ganeti
+    1. Install Ganeti
+    1. Install OS Definition
+    1. Initialize Ganeti
+    1. Post-install steps
+    1. Common setup issues
+1. Virtual machines
     1. Overview
-    2. Pros/Cons
-    3. Deployment strategies
-    4. VM Creation
-    5. Common VM operations
-8. Allocation tools
+    1. Pros/Cons
+    1. Deployment strategies
+    1. VM Creation
+    1. Common VM operations
+1. Allocation tools
     1. Htools
-    2. hail
-    3. hspace
-    4. hbal
-9. Dealing with failures
+    1. hail
+    1. hspace
+    1. hbal
+1. Dealing with failures
     1. Node failures
-    2. Disk failures
-    3. Split brain
-10. Other commands
+    1. Disk failures
+    1. Split brain
+1. Other commands
     1. Cluster info
-    2. Modifying cluster defaults
-    3. Node info
-    4. Modifying node information
-    5. Exporting/Importing VMs
-    6. Job queue
-    7. Node Groups
-11. Expanding a cluster
+    1. Modifying cluster defaults
+    1. Node info
+    1. Modifying node information
+    1. Exporting/Importing VMs
+    1. Job queue
+    1. Node Groups
+1. Expanding a cluster
     1. Planning
-    2. Adding node
-    3. Rebalancing cluster
-12. Upgrading Ganeti
+    1. Adding node
+    1. Rebalancing cluster
+1. Upgrading Ganeti
     1. Common practices
-    2. Procedure
-    3. Potential issues
-13. Extending with the RAPI
+    1. Procedure
+    1. Potential issues
+1. Extending with the RAPI
     1. Summary
-    2. Common uses
-14. Project Roadmap
+    1. Common uses
+1. Project Roadmap
     1. Release schedule
-    2. Upcoming features 
-15. Ganeti Web Manager
+    1. Upcoming features 
+1. Ganeti Web Manager
     1. Overview, project history, motivation
-    2. Installation requirements
-    3. Installation
-    4. Using GWM
-16. Conclusion
+    1. Installation requirements
+    1. Installation
+    1. Using GWM
+1. Conclusion
 
 Credits
 =======
