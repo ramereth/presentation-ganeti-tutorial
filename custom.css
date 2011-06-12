@@ -33,6 +33,7 @@ h1, h2, h3 {
 
 .green { color: #3a4; }
 .red   { color: #a34; }
+.redcode code  { color: #a34; }
 
 .bigcode pre code { font-size: 1.3em; }
 
@@ -234,8 +235,11 @@ table.rdata tr td.no-wd {
 .bullets ul li em {
   color: #be260d;
 }
+
 .smbullets ul li {
+    font-size: 35px;
     padding: 15px;
+    margin: 20px 0 20px 0;
 }
 
 .list ul {
