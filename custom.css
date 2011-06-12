@@ -42,11 +42,11 @@ h1, h2, h3 {
 
 img {
     position: relative;
+    padding:2em 0 2em 0;
+}
+
+.limg img:first-child {
     width: 90%;
-    padding-top: 2em;
-    padding-bottom: 2em;
-    /* Set the height dynamically depending on the image's current width,
-     * keeping the aspect ratio */
     height: auto;
 }
 
@@ -64,6 +64,10 @@ img {
 .right-img img:first-child {
     float: right;
     padding-right: 15%;
+}
+
+.full-screen-img img {
+    padding:0;
 }
 
 h1 {
@@ -302,3 +306,5 @@ blockquote {
     padding-left: 15px;
     border-left: 3px solid #ccc;
 }
+
+.slide .center {width:1024px;}
