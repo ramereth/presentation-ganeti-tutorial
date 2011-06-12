@@ -214,35 +214,44 @@ table.rdata tr td.no-wd {
 }
 
 .bullets ul {
-    font-size: 2.7em;
+    font-size: 50px;
 }
 
 .bullets ol {
-    font-size: 2.7em;
+    font-size: 50px;
 }
 
 .bullets ul li {
     padding: 15px;
 }
 
+.bullets ul li strong {
+  color: #be260d;
+  font-weight: bolder;
+  font-size: 1.1em;
+}
+
+.bullets ul li em {
+  color: #be260d;
+}
 .smbullets ul li {
-    padding: 20px;
+    padding: 15px;
 }
 
 .list ul {
-    font-size: 2.3em;
+    font-size: 50px;
     list-style-type: disc;
-    margin: 0 0 1em 1em;
+    margin: 0 0 20px 60px;
 }
 
 .list ol {
-    font-size: 2.3em;
+    font-size: 50px;
     list-style-type: decimal;
-    margin: 0 0 1em 3em;
+    margin: 0 0 15px 20px;
 }
 
 .list ol li {
-    padding: 0.2em;
+    padding: 15px;
     text-align: left;
 }
 
