@@ -1,4 +1,4 @@
-!SLIDE smbullets list
+!SLIDE bullets
 
 # About us
 

@@ -8,7 +8,7 @@
 
 !SLIDE codeblock bigcode
 
-# Typical Partition Layout
+# Partition Layout
 
     /dev/sda1   /boot   200M
     /dev/sda2   /       10-20G
@@ -20,3 +20,4 @@
 
 * Requires _hostname_ to be the **FQDN**
 * i.e. _node1.example.com_ instead of _node1_
+* Either in DNS or ``/etc/hosts``

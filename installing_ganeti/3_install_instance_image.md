@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE subsec
 
 # Install OS Definition
 
@@ -8,9 +8,8 @@
 
 * Requires Operating System installation script
 * Provide scripts to deploy various operating systems
-* Recommended OS Definitions
-  * _Ganeti Instance Deboostrap_ - upstream supported
-  * _Ganeti Instance Image_ - written by me
+* _Ganeti Instance Deboostrap_ - upstream supported
+* _Ganeti Instance Image_ - written by me
 
 !SLIDE smbullets list
 
@@ -28,7 +27,7 @@
 
 !SLIDE commandline bigcode
 
-# Install Dependencies
+# Install Instance Image Dependencies
 
     $ apt-get install dump qemu-kvm kpartx
 

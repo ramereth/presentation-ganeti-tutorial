@@ -1,4 +1,4 @@
-!SLIDE smbullets center smimg
+!SLIDE bullets center smimg
 
 # Architecture
 

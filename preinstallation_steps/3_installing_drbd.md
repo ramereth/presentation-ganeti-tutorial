@@ -2,22 +2,22 @@
 
 # Installing DRBD
 
-* Required for high availability
-* Can upgrade to DRBD later
-* Need at least 8.0.12
+* Required for _high availability_
+* Can _upgrade_ to DRBD later
+* Need at least _8.0.12_
 * Distro Support
 
-!SLIDE codeblock
+!SLIDE codeblock rvc
 
 # DRBD Module Setup
 
-## Via modules
+### Via modules
 
     $ echo drbd minor_count=255 usermode_helper=/bin/true >> /etc/modules
     $ depmod -a
     $ modprobe drbd minor_count=255 usermode_helper=/bin/true
 
-## Via Grub
+### Via Grub
 
     # Kernel Commands
     drbd.minor_count=255 drbd.usermode_helper=/bin/true

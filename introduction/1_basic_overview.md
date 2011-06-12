@@ -1,4 +1,4 @@
-!SLIDE smbullets
+!SLIDE bullets list
 
 # What is Ganeti?
 

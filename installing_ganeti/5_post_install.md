@@ -1,4 +1,4 @@
-!SLIDE 
+!SLIDE subsec
 
 # Post-install Steps
 
@@ -32,6 +32,6 @@
 
     $ /usr/lib/ganeti/tools/burnin -o image -p instance{1..5}
 
-* Does the hardware work?
-* Can the Hypervisor create instances?
-* Does each operation work properly? 
+* Does the _hardware_ work?
+* Can the _Hypervisor_ create instances?
+* Does each _operation_ work properly? 

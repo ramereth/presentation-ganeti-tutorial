@@ -8,4 +8,4 @@
 * various python modules
 * DRBD
 * LVM
-* KVM, Xen, or LXC
+* Hypervisor 

@@ -132,7 +132,7 @@ h1 {
   font-size: 160px;
   color: #014d65;
   margin-bottom: 5px;
-  line-height: 130px;
+  line-height: 160px;
 }
 
 .subsec h2 {
@@ -245,7 +245,7 @@ table.rdata tr td.no-wd {
 .smbullets ul li {
     font-size: 35px;
     padding: 15px;
-    margin: 0 0 0 0;
+    margin: 0 0 0 60px;
 }
 
 .list ul {

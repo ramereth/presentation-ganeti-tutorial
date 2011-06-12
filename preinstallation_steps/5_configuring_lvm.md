@@ -5,7 +5,7 @@
     $ pvcreate /dev/sda3
     $ vgcreate ganeti /dev/sda3
 
-!SLIDE codeblock bigcode
+!SLIDE codeblock bigcode rvc
 
 # lvm.conf changes
 

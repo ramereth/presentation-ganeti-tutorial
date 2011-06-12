@@ -1,8 +1,8 @@
 !SLIDE bullets list
 
-# Planning: Operating System
+# Operating System Planning
 
 * **Debian** - most supported upstream
-* **Gentoo** - I'm the maintainer!
+* **Gentoo** - great support
 * Ubuntu - should work great
 * CentOS - works but a few setup issues
