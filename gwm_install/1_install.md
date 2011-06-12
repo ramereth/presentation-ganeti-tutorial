@@ -21,15 +21,6 @@
     $ fab prod deploy
 
 
-!SLIDE bullets list transition=fade
-
-# Settings 
-
-* Database: sqlite by default
-* Outgoing Mail
-* Cache Backend
-
-
 !SLIDE commandline incremental transition=fade
 
 # Activate Virtualenv
@@ -37,10 +28,3 @@
     $ source bin/activate 
     $ which python
     /home/peter/wrk/ganeti_webmgr/bin/python
-
-
-!SLIDE commandline incremental transition=fade
-
-# Create Database
-
-    $ python manage.py syncdb --migrate
