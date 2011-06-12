@@ -36,6 +36,7 @@ h1, h2, h3 {
 .redcode code  { color: #a34; }
 
 .bigcode pre code { font-size: 1.3em; }
+.medcode pre code { font-size: 1.2em; }
 
 .blockimg img {
   border: 20px solid #014d65;
@@ -244,13 +245,13 @@ table.rdata tr td.no-wd {
 .smbullets ul li {
     font-size: 35px;
     padding: 15px;
-    margin: 20px 0 20px 0;
+    margin: 0 0 0 0;
 }
 
 .list ul {
     font-size: 50px;
     list-style-type: disc;
-    margin: 0 0 20px 60px;
+    margin: 0 0 0 60px;
 }
 
 .list ol {
