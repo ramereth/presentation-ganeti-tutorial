@@ -13,6 +13,25 @@
 * Used by _master_ node
 * i.e.: ``ganeti-prod.example.org``
 
+!SLIDE commandline rvc medcode
+
+# Initialization
+
+### KVM example
+
+    $ gnt-cluster init \
+        --master-netdev=br42 \
+        --vg-name ganeti \
+        --secondary-ip 192.168.16.140 \
+        --enabled-hypervisors=kvm \
+        --nic-parameters link=br100 \
+        --backend-parameters \
+            vcpus=2,memory=512M \
+        --hypervisor-parameters \
+            kvm:kernel_path=/boot/guest/vmlinuz \
+            vnc_bind_address=0.0.0.0 \
+        ganeti-prod.example.org
+
 !SLIDE codeblock rvc bigcode
 
 ## Cluster init args
@@ -54,25 +73,6 @@
 ### Cluster hostname
 
     ganeti-prod.example.org
-
-!SLIDE commandline rvc medcode
-
-# Initialization
-
-### KVM example
-
-    $ gnt-cluster init \
-        --master-netdev=br42 \
-        --vg-name ganeti \
-        --secondary-ip 192.168.16.140 \
-        --enabled-hypervisors=kvm \
-        --nic-parameters link=br100 \
-        --backend-parameters \
-            vcpus=2,memory=512M \
-        --hypervisor-parameters \
-            kvm:kernel_path=/boot/guest/vmlinuz \
-            vnc_bind_address=0.0.0.0 \
-        ganeti-prod.example.org
 
 !SLIDE commandline incremental
 

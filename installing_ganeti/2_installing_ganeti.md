@@ -10,13 +10,22 @@
 
 !SLIDE commandline incremental redcode
 
-# Post-install Steps
+# Startup Scripts
 
-### Installs into ``/usr/local/``
+### Installed into ``/usr/local/``
 
     $ cp doc/examples/ganeti.initd /etc/init.d/ganeti
     $ update-rc.d ganeti defaults 20 80
+
+
+!SLIDE commandline bullets list
+
+# `ganeti-watcher`
+
     $ cp doc/examples/ganeti.cron /etc/cron.d/ganeti
+
+* Automatically restarts failed instances
+* Restarts failed secondary storage
 
 !SLIDE smbullets list redcode
 

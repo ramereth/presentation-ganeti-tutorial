@@ -1,6 +1,6 @@
 !SLIDE subsec
 
-# Install OS Definition
+# Install guest OS support packages
 
 !SLIDE smbullets list
 
@@ -11,7 +11,7 @@
 * _Ganeti Instance Deboostrap_ - upstream supported
 * _Ganeti Instance Image_ - written by me
 
-!SLIDE smbullets list
+!SLIDE bullets list
 
 # OS Variants
 
@@ -21,9 +21,6 @@
   * Filesystem
   * Image type
   * Image directory
-* Example Names:
-  * debian-lenny
-  * centos-5
 
 !SLIDE commandline bigcode
 
@@ -41,6 +38,15 @@
         --with-os-dir=/srv/ganeti/os
     $ make
     $ make install
+
+!SLIDE bullets redcode
+
+# Creating images
+
+* Manually install/setup guest
+* Shutdown guest
+* Create filesystem _dump_ or _tarball_
+* Place in `IMAGE_DIR`
 
 !SLIDE codeblock incremental rvc bigcode
 
