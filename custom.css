@@ -248,6 +248,11 @@ table.rdata tr td.no-wd {
     margin: 0 0 0 60px;
 }
 
+.smbullets ul li strong {
+  color: #be260d;
+  font-weight: bolder;
+  font-size: 1.1em;
+}
 .list ul {
     font-size: 50px;
     list-style-type: disc;
