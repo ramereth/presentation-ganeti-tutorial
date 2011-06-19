@@ -21,7 +21,7 @@
 
 * Short strings attached to cluster, nodes, or instances
 * Useful for attaching owner information
-* Listing instances by tags
+* Used by external applications such as GWM
 
 !SLIDE bullets list
 
@@ -31,7 +31,7 @@
 * Executed as part of a _Job_
 * Single jobs executed _serially_
 * _Parallellization_ when resources are available 
-* Job _lock_ priorities
+* Job _locking_
 
 !SLIDE commandline bigcode
 

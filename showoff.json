@@ -2,7 +2,7 @@
     "sections": [ 
         {"section":"start"},
         {"section":"introduction"},
-        {"section":"base_architecture"},
+        {"section":"terminology"},
         {"section":"planning_your_cluster"},
         {"section":"preinstallation_steps"},
         {"section":"installing_ganeti"},

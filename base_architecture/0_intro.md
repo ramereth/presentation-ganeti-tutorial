@@ -1,3 +1,0 @@
-!SLIDE subsec
-
-# Base Architecture

@@ -1,6 +1,6 @@
 !SLIDES bullets sm-vert-img right-img
 
-# Ganeti Components #
+# Components #
 
 ![components](components.png)
 

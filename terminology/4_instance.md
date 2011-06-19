@@ -2,7 +2,7 @@
 
 # Instances
 
-* Virtual machine that runs on the cluster
+* Virtual machine that _runs_ on the cluster
 * Can be a fault tolerant/HA entity
 
 !SLIDE bullets redcode list
