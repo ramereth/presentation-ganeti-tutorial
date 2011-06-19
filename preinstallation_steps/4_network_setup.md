@@ -6,7 +6,7 @@
 
 # Interface Layout
 
-## <network diagram>
+### network diagram
 
 * **eth0** - trunked VLANs
 * **eth1** - private DRBD network

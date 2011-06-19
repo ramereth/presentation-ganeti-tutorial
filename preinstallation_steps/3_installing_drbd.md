@@ -3,13 +3,24 @@
 # Installing DRBD
 
 * Required for _high availability_
-* Can _upgrade_ to DRBD later
-* Need at least _8.0.12_
-* Distro Support
+* Can _upgrade_ non-HA to DRBD later
+* Need at least _>=drbd-8.0.12_
+* Depends on distro Support
+* Included in mainline
+
+!SLIDE limg center
+
+# DRBD Architecture
+
+![drbd](drbd.png)
 
 !SLIDE codeblock rvc
 
-# DRBD Module Setup
+# DRBD Setup
+
+### Installation
+
+    $ apt-get install drbd8-utils
 
 ### Via modules
 

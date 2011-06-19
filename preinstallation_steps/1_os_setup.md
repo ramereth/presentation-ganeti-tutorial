@@ -2,9 +2,11 @@
 
 # Operating System Setup
 
-* At least _20GB_ system volume
+* Clean ,minimal system install
+* Minimum _20GB_ system volume
 * _Single_ LVM Volume Group for instances
 * 64bit is preferred
+* _Similar_ hardware/software configuration across nodes
 
 !SLIDE codeblock bigcode
 
@@ -14,10 +16,11 @@
     /dev/sda2   /       10-20G
     /dev/sda3   LVM     rest, named ganeti
 
-!SLIDE bullets
+!SLIDE bullets list redcode
 
 # Hostname Issues
 
 * Requires _hostname_ to be the **FQDN**
 * i.e. _node1.example.com_ instead of _node1_
-* Either in DNS or ``/etc/hosts``
+* `hostname --fqdn` requires resolver library
+* Reduce dependency on DNS and _guessing_
