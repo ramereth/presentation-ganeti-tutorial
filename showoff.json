@@ -12,6 +12,7 @@
         {"section":"node_operations"},
         {"section":"job_operations"},
         {"section":"htools"},
+        {"section":"upgrading_ganeti"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
         {"section":"gwm_demo"}

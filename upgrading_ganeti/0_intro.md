@@ -1,0 +1,3 @@
+!SLIDE subsec
+
+# Upgrading Ganeti
