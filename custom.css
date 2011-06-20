@@ -37,7 +37,10 @@ h1, h2, h3 {
 .greencode code { color: lime; }
 
 .bigcode pre code { font-size: 1.3em; }
-.medcode pre code { font-size: 1.2em; }
+.medcode pre code { 
+    font-size: 1.2em;
+    line-height: 1.1em;
+}
 
 .blockimg img {
   border: 20px solid #014d65;

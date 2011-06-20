@@ -7,6 +7,7 @@
         {"section":"preinstallation_steps"},
         {"section":"installing_ganeti"},
         {"section":"instance_management"},
+        {"section":"instance_ha_features"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
         {"section":"gwm_demo"}
