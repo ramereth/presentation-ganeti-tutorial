@@ -1,27 +1,72 @@
-!SLIDE redcode bullets list
+!SLIDE redcode medtable
 
 # Xen-PVM Kernel
 
-* `kernel_path` : valid file on node(s)
-* `initrd_path` : valid initrd file
-* `kernel_args` : e.g.`ro quiet`
-* `root_path` : e.g. `/dev/vda2`
-* `bootloader_path` and `bootloader_args` to empty
+<table class="rdata">
+    <tr class="odd">
+        <td><code><b>kernel_path</b></code></td>
+        <td>valid file on node(s)</td>
+    </tr>
+    <tr class="even">
+        <td><code><b>initrd_path</b></code></td>
+        <td>valid initrd file</td>
+    </tr>
+    <tr class="odd">
+        <td><code><b>kernel_args</b></code></td>
+        <td>e.g. <code>ro quiet</code></td>
+    </tr>
+    <tr class="even">
+        <td><code><b>root_path</b></code></td>
+        <td>e.g. <code>/dev/vda2</code></td>
+    </tr>
+    <tr class="odd">
+        <td><code><b>bootloader_path / bootloader_args</b></code></td>
+        <td>to empty</td>
+    </tr>
+</table>
 
-!SLIDE redcode bullets list
+!SLIDE redcode medtable
 
 # Xen + pvgrub
 
-* `kernel_path` points to `pvgrub`
-* `kernel_args` path of grub config file
-* `root_path` **must** be empty
-* `bootloader_path` and `bootloader_args` to empty
+<table class="rdata">
+    <tr class="odd">
+        <td><code><b>kernel_path</b></code></td>
+        <td>points to <code>pvgrub</code></td>
+    </tr>
+    <tr class="even">
+        <td><code><b>kernel_args</b></code></td>
+        <td>path of grub config file</td>
+    </tr>
+    <tr class="odd">
+        <td><code><b>root_path</b></code></td>
+        <td><b>must</b> be empty</td>
+    </tr>
+    <tr class="even">
+        <td><code><b>bootloader_path / bootloader_args</b></code></td>
+        <td>to empty</td>
+    </tr>
+</table>
 
-!SLIDE redcode bullets list
+!SLIDE redcode medtable
 
 # KVM Kernel
 
-* `kernel_path` : valid file on node(s)
-* `initrd_path` : optionally set if using initrd
-* `kernel_args` : e.g. `ro quiet`
-* `kernel_path` to empty to use from instance disk
+<table class="rdata">
+    <tr class="odd">
+        <td><code><b>kernel_path</b></code></td>
+        <td>Valid file on node(s) <i>OR</i> empty to use from instance disk.</td>
+    </tr>
+    <tr class="even">
+        <td><code><b>initrd_path</b></code></td>
+        <td>valid initrd file</td>
+    </tr>
+    <tr class="odd">
+        <td><code><b>kernel_args</b></code></td>
+        <td>e.g. <code>ro quiet</code></td>
+    </tr>
+    <tr class="even">
+        <td><code><b>root_path</b></code></td>
+        <td>e.g. <code>/dev/vda2</code></td>
+    </tr>
+</table>
