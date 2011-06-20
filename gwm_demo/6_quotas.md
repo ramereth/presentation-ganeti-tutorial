@@ -5,8 +5,8 @@
 ## Per Persona, Per Cluster
 
 
-!SLIDE center transition=fade
+!SLIDE smtitle center transition=fade
 
-## Overriding Default Quota
+# Overriding Default Quota
 
 ![custom_quota](custom_quota.png)

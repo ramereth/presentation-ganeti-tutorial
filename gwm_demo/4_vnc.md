@@ -3,7 +3,7 @@
 ![vm-console](vm-console.png)
 
 
-!SLIDE center smbullets list transition=fade
+!SLIDE center bullets list transition=fade
 
 # VNC Auth Proxy
 

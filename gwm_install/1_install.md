@@ -1,4 +1,4 @@
-!SLIDE center transition=fade
+!SLIDE center rvc transition=fade
 
 # Ganeti Web Manager
 ### Installation
@@ -15,7 +15,7 @@
 * *Git* - Distributed Source Control
 
 
-!SLIDE commandline incremental transition=fade
+!SLIDE commandline bigcode incremental transition=fade
 
 # Fabric Installer
 

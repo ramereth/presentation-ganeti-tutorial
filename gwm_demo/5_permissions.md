@@ -4,7 +4,7 @@
 
 ![permissions](permissions.png)
 
-!SLIDE center transition=fade
+!SLIDE center rvc transition=fade
 
 # Personas
 ### Users can act on behalf of groups
@@ -12,7 +12,7 @@
 
 ![personas](personas.png)
 
-!SLIDE center smbullets list transition=fade
+!SLIDE center bullets list transition=fade
 
 # Ownership 
 # vs. 

@@ -12,7 +12,7 @@
 * Import New Nodes & Instances
 * Remove Deleted Nodes & Instances
 
-!SLIDE commandline incremental transition=fade
+!SLIDE commandline medcode rvc incremental transition=fade
 
 # Cache Updater
 ### Imports Nodes and Virtual Machines too

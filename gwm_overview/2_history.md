@@ -8,7 +8,7 @@
 * Version 0.6 - 03-04-2011
 * Version 0.7 - _June 2011_
 
-!SLIDE smbullets list transition=fade
+!SLIDE bullets list transition=fade
 
 # Open Sourced Libraries
 
