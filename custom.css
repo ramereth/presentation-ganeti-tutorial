@@ -31,9 +31,10 @@ h1, h2, h3 {
 
 .example pre strong { color: #ff7f00; }
 
-.green { color: #3a4; }
+.green { color: lime; }
 .red   { color: #a34; }
 .redcode code  { color: #a34; }
+.greencode code { color: lime; }
 
 .bigcode pre code { font-size: 1.3em; }
 .medcode pre code { font-size: 1.2em; }
@@ -216,8 +217,7 @@ table.rdata tr td.no-wd {
 }
 
 .tiny pre code { 
-  font-size: 25px;
-  color: #000;
+  font-size: 15px;
 }
 
 .bullets ul {
