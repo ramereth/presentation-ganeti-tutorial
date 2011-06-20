@@ -11,7 +11,6 @@
         {"section":"node_operations"},
         {"section":"job_operations"},
         {"section":"htools"},
-        {"section":"upgrading_ganeti"},
         {"section":"rapi"},
         {"section":"project_roadmap"},
         {"section":"gwm_overview"},
