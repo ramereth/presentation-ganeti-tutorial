@@ -8,7 +8,6 @@
         {"section":"installing_ganeti"},
         {"section":"instance_management"},
         {"section":"instance_ha_features"},
-        {"section":"instance_debugging"},
         {"section":"node_operations"},
         {"section":"job_operations"},
         {"section":"htools"},

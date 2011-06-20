@@ -2,18 +2,6 @@
 
 # Post-install Steps
 
-!SLIDE commandline bullets list redcode bigcode
-
-# Adding nodes
-
-    $ gnt-node add \
-        --secondary-ip 192.168.16.141 \
-        node2.example.org
-
-* ``--secondary-ip`` - DRBD node IP
-* ``node2.example.org`` - node to add
-* Follow previous steps for setup
-
 !SLIDE commandline incremental bullets list rvc
 
 # Testing/Viewing the nodes

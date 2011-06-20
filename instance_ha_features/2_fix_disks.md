@@ -8,7 +8,7 @@
     * Re-create disks on secondary node
     * Change secondary
 
-!SLIDE commandline incremental medcode
+!SLIDE commandline incremental
 
 # Replacing disks
 
