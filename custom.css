@@ -165,7 +165,7 @@ table.rdata {
   background: #fff;
   padding: 8px;
   border: 1px solid #333;
-  font-size: 1.5em;
+  font-size: 1.3em;
 }
 
 .rvc h2 {
@@ -331,3 +331,8 @@ blockquote {
 }
 
 .slide .center {width:1024px;}
+
+.license img:first-child {
+    width: auto;
+    height: auto;
+}

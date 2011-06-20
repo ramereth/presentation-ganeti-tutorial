@@ -17,6 +17,7 @@
         {"section":"project_roadmap"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
-        {"section":"gwm_demo"}
+        {"section":"gwm_demo"},
+        {"section":"ending"}
     ]
 }
