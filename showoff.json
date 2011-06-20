@@ -9,6 +9,7 @@
         {"section":"instance_management"},
         {"section":"instance_ha_features"},
         {"section":"instance_debugging"},
+        {"section":"node_operations"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
         {"section":"gwm_demo"}
