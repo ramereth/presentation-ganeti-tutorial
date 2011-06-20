@@ -177,6 +177,10 @@ table.rdata {
   color: #0b98b4;
 }
 
+.medtable table {
+    font-size: 1.4em;
+}
+
 table.rdata tr.level {
   color: #0b98b4;
   background: #def;

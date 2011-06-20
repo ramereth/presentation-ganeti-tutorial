@@ -35,18 +35,40 @@
     * Daemons will not talk to this node
     * Instances flagged as an error in cluster verify
 
-!SLIDE smbullets
+!SLIDE redcode medtable
 
 # Node Daemons
 
-* **`ganeti-noded`** : control hardware resources, runs on all
-* **`ganeti-confd`** : only functional on master, runs on all
-* **`ganeti-rapi`** : offers HTTP-based API for cluster, runs on master
-* **`ganeti-masterd`** : allows control of cluster, runs on master
+<table class="rdata">
+    <tr class="odd">
+        <td><code><b>ganeti-noded</b></code></td>
+        <td>control hardware resources, runs on all</td>
+    </tr>
+    <tr class="even">
+        <td><code><b>ganeti-confd<b></code></td>
+        <td>only functional on master, runs on all</td>
+    </tr>
+    <tr class="odd">
+        <td><code><b>ganeti-rapi<b></code></td>
+        <td>offers HTTP-based API for cluster, runs on master</td>
+    </tr>
+    <tr class="even">
+        <td><code><b>ganeti-masterd</b></code></td>
+        <td>allows control of cluster, runs on master</td>
+    </tr>
+</table>
 
-!SLIDE bullets list
+!SLIDE redcode medtable
 
 # Node Flags
 
-* **master_capable** : Remote node only runs local instances
-* **vm_capable** : master candidate for configuration backups
+<table class="rdata">
+    <tr class="odd">
+        <td><code><b>master_capable</b></code></td>
+        <td>Remote node only runs local instances</td>
+    </tr>
+    <tr class="even">
+        <td><code><b>vm_capable<b></code></td>
+        <td>master candidate for configuration backups</td>
+    </tr>
+</table>
