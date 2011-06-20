@@ -19,13 +19,6 @@ Here's an outline of the tutorial as it stands now.
     1. Basic overview
     1. Project history, background, and motivation
     1. Tutorial overview
-1. Hands-on Setup
-    1. VM images
-    1. How the Hands-on VMs are setup
-1. Comparing to other projects
-    1. Openstack
-    1. Eucalyptus
-    1. OpenNebula 
 1. Terminology (12min)
     1. Components
     1. Terminology
