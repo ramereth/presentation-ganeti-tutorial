@@ -11,6 +11,6 @@
 
 # _Primary_ & _Secondary_ concepts
 
-* Always runs on _primary_
-* Depends on _disk template_
+* Instances always runs on _primary_
 * Uses secondary node for _disk replication_
+* Depends on _disk template_ (i.e. drbd)

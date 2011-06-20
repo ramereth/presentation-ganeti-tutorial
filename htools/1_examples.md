@@ -24,6 +24,8 @@
     Cluster score improved from 0.53388595 to 0.52958328
     Solution length=5
 
+## Useful for cluster re-balancing
+
 !SLIDE commandline incremental
 
 # `hbal`

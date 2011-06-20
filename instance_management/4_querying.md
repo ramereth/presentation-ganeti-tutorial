@@ -8,7 +8,7 @@
 * One useful for grep
 * Other has more details, slower
 
-!SLIDE commandline tiny
+!SLIDE commandline tiny smcommandline
 
 # Listing instances
 

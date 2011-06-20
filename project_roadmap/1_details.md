@@ -6,7 +6,7 @@
 * License: _GPL v2_
 * Ganeti 1.2.0 - December 2007
 * Ganeti 2.0.0 - May 2009
-* Ganeti _2.4.0_ - Mar 2011 / 2.4.2 current
+* Ganeti 2.4.0 - Mar 2011 / _2.4.2_ current
 * Ganeti 2.5.0 - _July 2011?_
 
 !SLIDE bullets list

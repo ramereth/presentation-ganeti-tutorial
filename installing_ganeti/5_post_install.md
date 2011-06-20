@@ -2,7 +2,7 @@
 
 # Post-install Steps
 
-!SLIDE commandline incremental bullets list rvc
+!SLIDE commandline bullets list rvc
 
 # Testing/Viewing the nodes
 
@@ -15,7 +15,7 @@
 * Ganeti can examine storage on the nodes _(DTotal/DFree)_
 * Ganeti can talk to the selected hypervisor _(MTotal/MNode/MFree)_
 
-!SLIDE commandline bullets list incremental
+!SLIDE commandline bullets list
 
 # Cluster burnin testing
 

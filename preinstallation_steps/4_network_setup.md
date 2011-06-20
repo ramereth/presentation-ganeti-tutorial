@@ -69,11 +69,3 @@
         netmask 255.255.255.0
         network 192.168.16.0
         broadcast 192.168.16.255
-
-!SLIDE bullets list
-
-# Extending networking
-
-* Ethernet bonding
-* Redundancy
-* Increase throughput 
