@@ -7,3 +7,5 @@
 ### May need to pass `-s REPLICATION_IP` parameter
 
     $ gnt-node add --readd EXISTING_NODE
+
+### `-s` parameter _not_ required 

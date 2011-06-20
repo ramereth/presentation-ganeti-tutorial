@@ -2,8 +2,8 @@
 
 # Network Planning
 
-## <insert graphic>
+## insert graphic
 
-* Depends on your network
-* Bridging is most supported
-* Nodes on private NAT
+* Depends on your _network_
+* _Bridging_ is most supported
+* Nodes on _private NAT_

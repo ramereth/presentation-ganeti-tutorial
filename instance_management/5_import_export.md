@@ -4,9 +4,9 @@
 
     $ gnt-backup export -n TARGET_NODE INSTANCE_NAME
 
-* Create snapshot of disk & configuration
+* Create _snapshot_ of disk & configuration
 * Backup, or import into another cluster
-* One snapshot for an instance
+* _One_ snapshot for an instance
 
 !SLIDE commandline bigcode
 

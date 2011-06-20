@@ -32,9 +32,9 @@
             vnc_bind_address=0.0.0.0 \
         ganeti-prod.example.org
 
-!SLIDE codeblock rvc bigcode
+!SLIDE codeblock rvc bigcode smtitle
 
-## Cluster init args
+# Cluster init args
 
 ### Master Network Device
 
@@ -52,9 +52,9 @@
 
     --enabled-hypervisors=kvm
 
-!SLIDE codeblock rvc bigcode
+!SLIDE codeblock rvc bigcode smtitle
 
-## Cluster init args
+# Cluster init args
 
 ### Default NIC
 

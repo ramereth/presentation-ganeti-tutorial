@@ -8,7 +8,7 @@
     $ make
     $ make install
 
-!SLIDE commandline incremental redcode
+!SLIDE commandline incremental redcode medcode
 
 # Startup Scripts
 
@@ -18,14 +18,14 @@
     $ update-rc.d ganeti defaults 20 80
 
 
-!SLIDE commandline bullets list
+!SLIDE commandline bullets list medcode
 
 # `ganeti-watcher`
 
     $ cp doc/examples/ganeti.cron /etc/cron.d/ganeti
 
-* Automatically restarts failed instances
-* Restarts failed secondary storage
+* _Automatically_ restarts failed instances
+* Restarts _failed_ secondary storage
 
 !SLIDE smbullets list redcode
 

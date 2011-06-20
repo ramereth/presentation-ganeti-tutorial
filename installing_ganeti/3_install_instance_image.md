@@ -22,7 +22,7 @@
   * Image type
   * Image directory
 
-!SLIDE commandline bigcode
+!SLIDE commandline bigcode smtitle
 
 # Install Instance Image Dependencies
 

@@ -21,9 +21,9 @@
     instance4.example.org     kvm        image+ubuntu-lucid          node2.example.org running      512M
 
 
-!SLIDE commandline tiny
+!SLIDE commandline tiny smtitle
 
-## Detailed Instance Information
+# Detailed Instance Info
 
     $ gnt-instance info instance2
     Instance name: instance2.example.org
@@ -52,9 +52,9 @@
         - kernel_path: /boot/guest/vmlinuz-x86_64-hardened
         - kvm_flag: 
 
-!SLIDE codeblock tiny greencode
+!SLIDE codeblock tiny greencode smtitle
 
-## Detailed Instance Information
+# Detailed Instance Info
 
         - mem_path: 
         - migration_downtime: 30

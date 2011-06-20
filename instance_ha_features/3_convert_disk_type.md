@@ -1,6 +1,6 @@
-!SLIDE commandline medcode incremental
+!SLIDE commandline medcode incremental smtitle
 
-## Conversion of an instance's disk type
+# Conversion of an instance's disk type
 
     $ # start with a non-redundant instance
     gnt-instance add -t plain ... INSTANCE

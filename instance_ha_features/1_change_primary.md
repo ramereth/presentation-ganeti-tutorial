@@ -10,9 +10,9 @@
 
     $ gnt-instance migrate INSTANCE_NAME
 
-!SLIDE commandline bigcode rvc bullets
+!SLIDE commandline bigcode rvc bullets smtitle
 
-## Moving an instance (offline)
+# Moving an instance (offline)
 
     $ gnt-instance move -n NEW_NODE INSTANCE
 

@@ -1,8 +1,6 @@
-!SLIDE bullets list rvc
+!SLIDE bullets list rvc smtitle
 
-## Restoring redundancy for DRBD-based instances
-
-### Three options
+# Restoring redundancy for DRBD-based instances
 
 * Primary node storage failed
     * Re-create disks on it

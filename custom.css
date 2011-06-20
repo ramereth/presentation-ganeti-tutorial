@@ -151,6 +151,11 @@ h1 {
   color: #0b98b4;
 }
 
+.smtitle h1 {
+    font-size: 3.5em;
+    line-height: 0.9em;
+}
+
 table.rdata {
   margin-left: 50px;
   width: 90%;

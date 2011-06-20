@@ -2,8 +2,8 @@
 
 # Evacuating nodes
 
-* Moving the primary instances
-* Moving secondary instances
+* Moving the _primary_ instances
+* Moving _secondary_ instances
 
 !SLIDE commandline bigcode
 
@@ -29,6 +29,6 @@
 
     $ gnt-node remove NODE_NAME
 
-* Deconfigure node
-* Stop ganeti daemons
-* Remove config files
+* _Deconfigure_ node
+* _Stop_ ganeti daemons
+* Node in _clean_ state

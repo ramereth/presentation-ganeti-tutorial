@@ -1,4 +1,4 @@
-!SLIDE bullets list
+!SLIDE bullets
 
 # Installation Options
 

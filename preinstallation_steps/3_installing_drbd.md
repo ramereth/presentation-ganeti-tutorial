@@ -6,7 +6,7 @@
 * Can _upgrade_ non-HA to DRBD later
 * Need at least _>=drbd-8.0.12_
 * Depends on distro Support
-* Included in mainline
+* Included in _mainline_
 
 !SLIDE limg center
 

@@ -1,5 +1,7 @@
-!SLIDE commandline bigcode
+!SLIDE commandline bigcode rvc
 
-# Failing over the master node
+# Master fail-over 
 
     $ gnt-cluster master-failover
+
+### On a non-master, master-capable node
