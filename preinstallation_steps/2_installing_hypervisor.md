@@ -2,7 +2,7 @@
 
 # Installing the Hypervisor
 
-!SLIDE bullets rvc
+!SLIDE bullets rvc smtitle
 
 # Hypervisor requirements
 

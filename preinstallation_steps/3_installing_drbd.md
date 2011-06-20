@@ -1,4 +1,4 @@
-!SLIDE bullets
+!SLIDE bullets list
 
 # Installing DRBD
 
