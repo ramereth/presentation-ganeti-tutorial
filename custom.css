@@ -54,6 +54,10 @@ img {
     padding:2em 0 2em 0;
 }
 
+.iconimg {
+    padding: 0 0;
+}
+
 .limg img:first-child {
     width: 90%;
     height: auto;
