@@ -324,6 +324,10 @@ code {
     color: lime;
 }
 
+.smcommandline pre {
+    line-height: 0.8em;
+}
+
 .center code, pre {
     color: white;
     text-align: left;
