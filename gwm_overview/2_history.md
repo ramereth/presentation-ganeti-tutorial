@@ -1,4 +1,4 @@
-!SLIDE list transition=fade
+!SLIDE bullets list transition=fade
 
 # Releases 
 
