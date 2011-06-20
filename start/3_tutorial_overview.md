@@ -5,6 +5,6 @@
 * Ganeti Architecture
 * Installation
 * Virtual machine deployment
-* Expanding a cluster
+* Cluster Management
 * Dealing with failures
 * Ganeti Web Manager
