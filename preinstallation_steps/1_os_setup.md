@@ -8,13 +8,27 @@
 * 64bit is preferred
 * _Similar_ hardware/software configuration across nodes
 
-!SLIDE codeblock bigcode
+!SLIDE medtable
 
 # Partition Layout
 
-    /dev/sda1   /boot   200M
-    /dev/sda2   /       10-20G
-    /dev/sda3   LVM     rest, named ganeti
+<table class="rdata">
+    <tr class="odd">
+        <td>/dev/sda1</td>
+        <td>/boot</td>
+        <td>200M</td>
+    </tr>
+    <tr class="even">
+        <td>/dev/sda2</td>
+        <td>/</td>
+        <td>10-20G</td>
+    </tr>
+    <tr class="odd">
+        <td>/dev/sda3</td>
+        <td>LVM</td>
+        <td>rest, named ganeti</td>
+    </tr>
+</table>
 
 !SLIDE bullets list redcode
 
