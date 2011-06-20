@@ -2,7 +2,7 @@
 
 # Post-install Steps
 
-!SLIDE commandline bullets list redcode bigcode incremental
+!SLIDE commandline bullets list redcode bigcode
 
 # Adding nodes
 

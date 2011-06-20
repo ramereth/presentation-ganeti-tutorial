@@ -1,6 +1,6 @@
 !SLIDE subsec
 
-# Install guest OS support packages
+# Install OS Definition 
 
 !SLIDE smbullets list
 
@@ -47,17 +47,3 @@
 * Shutdown guest
 * Create filesystem _dump_ or _tarball_
 * Place in `IMAGE_DIR`
-
-!SLIDE codeblock incremental rvc bigcode
-
-# Configure Instance Image
-
-### ``/etc/default/ganeti-instance-image``
-
-    IMAGE_TYPE="dump"
-    ARCH="x86_64"
-
-### ``/etc/ganeti/instance-image/variants/debian.conf``
-
-    IMAGE_NAME="debian-6.0.1"
-

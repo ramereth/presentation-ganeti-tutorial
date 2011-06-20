@@ -21,7 +21,7 @@
     instance4.example.org     kvm        image+ubuntu-lucid          node2.example.org running      512M
 
 
-!SLIDE commandline tiny smtitle
+!SLIDE commandline smcommandline tiny smtitle
 
 # Detailed Instance Info
 
@@ -40,38 +40,7 @@
       Hypervisor: kvm
         - console connection: vnc to node2.example.org:11013 (display 5113)
         - acpi: True
-        - boot_order: disk
-        - cdrom2_image_path: default ()
-        - cdrom_disk_type: default ()
-        - cdrom_image_path: 
-        - disk_cache: default (default)
-        - disk_type: paravirtual
-        - floppy_image_path: default ()
-        - initrd_path: 
-        - kernel_args: ro
-        - kernel_path: /boot/guest/vmlinuz-x86_64-hardened
-        - kvm_flag: 
-
-!SLIDE codeblock tiny greencode smtitle
-
-# Detailed Instance Info
-
-        - mem_path: 
-        - migration_downtime: 30
-        - nic_type: paravirtual
-        - root_path: /dev/vda2
-        - security_domain: 
-        - security_model: pool
-        - serial_console: True
-        - usb_mouse: 
-        - use_chroot: False
-        - use_localtime: False
-        - vhost_net: default (False)
-        - vnc_bind_address: 0.0.0.0
-        - vnc_password_file: default ()
-        - vnc_tls: False
-        - vnc_x509_path: 
-        - vnc_x509_verify: False
+        ...
       Hardware:
         - VCPUs: 2
         - memory: 512MiB
