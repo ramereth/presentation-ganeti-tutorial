@@ -9,22 +9,9 @@
 * Ganeti _2.4.0_ - Mar 2011 / 2.4.2 current
 * Ganeti 2.5.0 - _July 2011?_
 
-!SLIDE smbullets list
-
-# Feature Roadmap
-
-* LXC support - 2.2
-* Inter-cluster instance moves - 2.2
-* KVM security - 2.2
-* IPv6 - 2.3
-* Privilege Separation - 2.2/2.3
-* Node Groups - 2.4
-* OOB node management - 2.4
-* Shared storage - 2.5
-
 !SLIDE bullets list
 
-# Future features
+# Upcoming features
 
 * Merge htools
 * CPU Pinning
@@ -33,12 +20,3 @@
 * Moving instance across node groups
 * Network management
 * Shared storage support
-
-!SLIDE bullets list
-
-# Community
-
-* Mailing list _(devel & general)_
-* IRC: _#ganeti_ on freenode
-* Friendly, active, supportive
-* Welcome to patches
