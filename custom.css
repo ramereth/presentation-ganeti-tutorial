@@ -283,6 +283,7 @@ code {
 }
 
 .commandline pre {
+    line-height: 1.1em;
     font-size: 16pt;
     margin-right: 40px;
     margin-left: 40px;
