@@ -6,6 +6,7 @@
         {"section":"planning_your_cluster"},
         {"section":"preinstallation_steps"},
         {"section":"installing_ganeti"},
+        {"section":"instance_management"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
         {"section":"gwm_demo"}
