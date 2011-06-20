@@ -1,8 +1,6 @@
-!SLIDE center transition=fade
+!SLIDE full-screen-img center transition=fade
 
-# Importing Clusters
-
-![cluster_add](cluster_add.png)
+![cluster_add](clusters.png)
 
 !SLIDE bullets list transition=fade
 
