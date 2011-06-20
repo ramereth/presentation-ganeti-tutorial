@@ -13,7 +13,7 @@
 * Install via your distro
 * Reboot as necessary
 
-!SLIDE commandline bullets medcode
+!SLIDE commandline bullets
 
 # Selecting the instance kernel
 
