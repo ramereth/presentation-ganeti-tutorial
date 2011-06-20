@@ -36,7 +36,10 @@ h1, h2, h3 {
 .redcode code  { color: #a34; }
 .greencode code { color: lime; }
 
-.bigcode pre code { font-size: 1.3em; }
+.bigcode pre code {
+    font-size: 1.3em; 
+    line-height: 1.2;
+}
 .medcode pre code { 
     font-size: 1.2em;
     line-height: 1.1em;
