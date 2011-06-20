@@ -8,14 +8,3 @@
 * Team based in Google Switzerland
 * Active mailing list & IRC channel
 * Started internally before _libvirt_
-
-!SLIDE bullets list
-
-# Project Motivation
-
-* Use of _commodity_ hardware
-* Simplify managing a cluster of VMs
-* Easy interface
-* Fast & Simple failover recovery
-* Linear expandability 
-* Customizable

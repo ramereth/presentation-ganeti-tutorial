@@ -2,11 +2,11 @@
 
 # What is Ganeti?
 
-* Cluster virtual server management software tool
-* Built on top of existing OSS hypervisors
-* Fast & simple recovery after physical failures
-* Using commodity hardware
-* Utilizes local storage
+* _Cluster_ virtual server management software tool
+* Built on top of _existing_ OSS hypervisors
+* Fast & simple _recovery_ after physical failures
+* Using _cheap_ commodity hardware
+* Utilizes _local_ storage
 
 !SLIDE limg center
 
