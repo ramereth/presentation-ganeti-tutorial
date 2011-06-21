@@ -1,8 +1,8 @@
-!SLIDE bullets
+!SLIDE bullets center himg
 
 # Network Planning
 
-## insert graphic
+![networking](networking.png)
 
 * _Bridging_ is most supported
 * Depends on your _network_
