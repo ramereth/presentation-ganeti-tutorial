@@ -64,9 +64,9 @@ img {
 }
 
 .smimg img:first-child {
+    padding-top:0;
     height: auto;
-    width: 60%;
-    padding: 0.5em;
+    width: 250px;
 }
 
 .sm-vert-img img:first-child {
