@@ -7,9 +7,11 @@
 * **htools**
 * External scripts used to compute
 
-!SLIDE smtitle bullets list
+!SLIDE smtitle bullets list himg center
 
 # _Primary_ & _Secondary_ concepts
+
+![primary-secondary](primary-secondary.png)
 
 * Instances always runs on _primary_
 * Uses secondary node for _disk replication_

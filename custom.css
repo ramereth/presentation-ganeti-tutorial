@@ -69,6 +69,11 @@ img {
     width: 250px;
 }
 
+.himg img:first-child {
+    padding-top:0;
+    height: 200px;
+    width: auto;
+}
 .sm-vert-img img:first-child {
     padding-top:0;
     height: 400px;
