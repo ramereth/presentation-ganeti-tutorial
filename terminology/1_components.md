@@ -6,6 +6,7 @@
 
 * Python
 * various python modules
+* Haskell
 * DRBD
 * LVM
 * Hypervisor 
