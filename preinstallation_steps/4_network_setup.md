@@ -2,11 +2,11 @@
 
 # Network Setup
 
-!SLIDE bullets
+!SLIDE bullets center himg
 
 # Interface Layout
 
-### network diagram
+![networking](networking.png)
 
 * **eth0** - trunked VLANs
 * **eth1** - private DRBD network

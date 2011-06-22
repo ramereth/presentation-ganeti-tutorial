@@ -1,3 +1,3 @@
 !SLIDE subsec smtitle
 
-# Pre- Installation Steps
+# Pre-Installation Steps
