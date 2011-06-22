@@ -10,6 +10,11 @@ This presentation was created with
 [showoff](https://github.com/schacon/showoff). To see the presentation, run `gem
 install showoff` then run `showoff serve` in this directory.
 
+Live Slides for Conferences
+===========================
+
+* [Open Source Bridge 2011](http://www.lancealbertson.com/slides/ganeti-tutorial-osb11/) - ([pdf](http://www.lancealbertson.com/slides/ganeti-tutorial-osb11/presentation-ganeti-tutorial.pdf))
+
 Outline
 =======
 
