@@ -12,4 +12,4 @@
 * Built on top of _existing_ OSS hypervisors
 * Fast & simple _recovery_ after physical failures
 * Using _cheap_ commodity hardware
-* Utilizes _local_ storage
+* Private _IaaS_

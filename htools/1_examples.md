@@ -45,9 +45,11 @@
         echo job 1/1
         gnt-instance replace-disks -n g2 linuxfund
 
-!SLIDE commandline incremental bigcode
+!SLIDE commandline incremental bigcode rvc
 
 # `hspace`
+
+### Cluster planning
 
     $ hspace --memory 512 --disk 10240 \
     $    -m ganeti.example.org

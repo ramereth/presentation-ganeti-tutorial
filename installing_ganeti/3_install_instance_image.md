@@ -2,9 +2,11 @@
 
 # Install OS Definition 
 
-!SLIDE smbullets list
+!SLIDE smbullets list rvc
 
 # Instance creation scripts
+
+### also known as OS Definitions
 
 * Requires Operating System installation script
 * Provide scripts to deploy various operating systems
@@ -16,11 +18,11 @@
 # OS Variants
 
 * _Variants_ of the OS Definition
-* Often used for _defining_ operating system
-* Different deployment settings
+* Used for _defining_ guest operating system
+* Types of deployment settings:
   * Filesystem
-  * Image type
   * Image directory
+  * Image Name
 
 !SLIDE commandline bigcode smtitle
 

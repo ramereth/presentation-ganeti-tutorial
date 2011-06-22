@@ -5,5 +5,5 @@
 ![networking](networking.png)
 
 * _Bridging_ is most supported
-* Depends on your _network_
+* _Routed_ networking also supported
 * Nodes on _private NAT_

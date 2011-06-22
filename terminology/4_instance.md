@@ -14,7 +14,7 @@
 * Hypervisor (called `hvparams`)
 * General (called `beparams`)
 * Networking (called `nicparams`)
-* Modified via instance or cluster defaults
+* _Modified_ via instance or cluster defaults
 
 !SLIDE bullets list
 

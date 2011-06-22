@@ -7,9 +7,9 @@
 # Testing/Viewing the nodes
 
     $ gnt-node list
-    Node              DTotal DFree MTotal MNode MFree Pinst Sinst
-    node1.example.org 223.4G 96.4G   7.8G  5.4G  2.7G     0     0
-    node2.example.org 223.4G 96.4G   7.8G  5.4G  2.7G     0     0
+    Node              DTotal  DFree MTotal MNode MFree Pinst Sinst
+    node1.example.org 223.4G 223.4G   7.8G  300M  7.5G     0     0
+    node2.example.org 223.4G 223.4G   7.8G  300M  7.5G     0     0
 
 * Ganeti damons can talk to each other
 * Ganeti can examine storage on the nodes _(DTotal/DFree)_

@@ -9,6 +9,5 @@
 ### **Mandatory** on all nodes
 
 * _Xen_ 3.0 and above
-* _KVM_ 72 or 0.11 and above
+* _KVM_ 0.11 and above
 * Install via your distro
-* Reboot as necessary

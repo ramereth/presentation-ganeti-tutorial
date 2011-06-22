@@ -8,9 +8,11 @@
 * 64bit is preferred
 * _Similar_ hardware/software configuration across nodes
 
-!SLIDE medtable
+!SLIDE medtable rvc
 
-# Partition Layout
+# Partition Setup
+
+### typical layout
 
 <table class="rdata">
     <tr class="odd">
