@@ -1,9 +1,9 @@
-!SLIDE full-screen-img center list bullets transition=fade
+!SLIDE full-screen-img center list bullets
 
 ![vm-console](vm-console.png)
 
 
-!SLIDE center bullets list transition=fade
+!SLIDE center bullets list
 
 # VNC Auth Proxy
 

@@ -1,4 +1,4 @@
-!SLIDE bullets list center transition=fade
+!SLIDE bullets list center
 
 ![gwm_logo](logo.png)
 

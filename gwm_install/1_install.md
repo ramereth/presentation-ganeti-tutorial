@@ -1,11 +1,11 @@
-!SLIDE center rvc transition=fade
+!SLIDE center rvc
 
 # Ganeti Web Manager
 ### Installation
 
 ![package](package.png)
 
-!SLIDE bullets list transition=fade
+!SLIDE bullets list
 
 # Dependencies
 * *Python* >=2.5, 2.7 recommended
@@ -15,7 +15,7 @@
 * *Git* - Distributed Source Control
 
 
-!SLIDE commandline bigcode incremental transition=fade
+!SLIDE commandline bigcode incremental
 
 # Fabric Installer
 

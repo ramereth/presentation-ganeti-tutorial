@@ -1,10 +1,10 @@
-!SLIDE center transition=fade
+!SLIDE center
 
 # Permissions
 
 ![permissions](permissions.png)
 
-!SLIDE center rvc transition=fade
+!SLIDE center rvc
 
 # Personas
 ### Users can act on behalf of groups
@@ -12,7 +12,7 @@
 
 ![personas](personas.png)
 
-!SLIDE center bullets list transition=fade
+!SLIDE center bullets list
 
 # Ownership 
 # vs. 
@@ -20,13 +20,13 @@
 * Ownership is for book keeping
 * Permissions let you do things
 
-!SLIDE center transition=fade
+!SLIDE center
 
 # Users Tab
 
 ![Users Tab](users_tab.png)
 
-!SLIDE center transition=fade
+!SLIDE center
 
 # Editing Users
 

@@ -1,4 +1,4 @@
-!SLIDE center transition=fade
+!SLIDE center
 
 # Cache System
 
