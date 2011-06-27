@@ -1,4 +1,4 @@
-!SLIDE commandline bigcode incremental bullets
+!SLIDE commandline bigcode bullets
 
 # Startup/Shutdown
 

@@ -1,11 +1,11 @@
-!SLIDE center transition=fade
+!SLIDE center
 
 # Quotas
 
 ## Per Persona, Per Cluster
 
 
-!SLIDE smtitle center transition=fade
+!SLIDE smtitle center
 
 # Overriding Default Quota
 

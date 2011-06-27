@@ -1,8 +1,8 @@
-!SLIDE full-screen-img center transition=fade
+!SLIDE full-screen-img center
 
 ![cluster_add](clusters.png)
 
-!SLIDE bullets list transition=fade
+!SLIDE bullets list
 
 # Import Tools
 
@@ -10,7 +10,7 @@
 * Import New Nodes & Instances
 * Remove Deleted Nodes & Instances
 
-!SLIDE commandline medcode rvc incremental transition=fade
+!SLIDE commandline medcode rvc incremental
 
 # Cache Updater
 ### Imports Nodes and Virtual Machines too

@@ -1,3 +1,9 @@
+!SLIDE limg center
+
+# Ganeti Cluster
+
+![ganeti-cluster](ganeti-cluster.png)
+
 !SLIDE bullets list
 
 # What is Ganeti?
@@ -6,10 +12,4 @@
 * Built on top of _existing_ OSS hypervisors
 * Fast & simple _recovery_ after physical failures
 * Using _cheap_ commodity hardware
-* Utilizes _local_ storage
-
-!SLIDE limg center
-
-# Ganeti Cluster
-
-![ganeti-cluster](ganeti-cluster.png)
+* Private _IaaS_

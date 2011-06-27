@@ -73,20 +73,3 @@
 ### Cluster hostname
 
     ganeti-prod.example.org
-
-!SLIDE commandline incremental
-
-# Testing the Cluster
-
-    $ gnt-cluster verify
-    Sun Jun 12 20:32:37 2011 * Verifying global settings
-    Sun Jun 12 20:32:37 2011 * Gathering data (1 nodes)
-    Sun Jun 12 20:32:45 2011 * Gathering disk information (1 nodes)
-    Sun Jun 12 20:33:15 2011 * Verifying node status
-    Sun Jun 12 20:33:15 2011 * Verifying instance status
-    Sun Jun 12 20:33:15 2011 * Verifying orphan volumes
-    Sun Jun 12 20:33:15 2011 * Verifying orphan instances
-    Sun Jun 12 20:33:15 2011 * Verifying N+1 Memory redundancy
-    Sun Jun 12 20:33:15 2011 * Other Notes
-    Sun Jun 12 20:33:15 2011 * Hooks Results
-

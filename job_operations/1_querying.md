@@ -33,7 +33,7 @@
             [Neither the name nor the IP address of the cluster has changed]
           Execution log:
 
-!SLIDE commandline tiny
+!SLIDE commandline tiny smcommandline
 
 # Watching a job
 

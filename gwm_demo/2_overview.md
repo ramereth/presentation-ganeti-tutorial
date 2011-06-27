@@ -1,3 +1,3 @@
-!SLIDE full-screen-img center transition=fade
+!SLIDE full-screen-img center
 
 ![overview](overview.png)

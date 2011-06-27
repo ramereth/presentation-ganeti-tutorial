@@ -2,13 +2,13 @@
 
 # Restoring redundancy for DRBD-based instances
 
-* Primary node storage failed
+* _Primary_ node storage failed
     * Re-create disks on it
-* Secondary node storage failed
+* _Secondary_ node storage failed
     * Re-create disks on secondary node
     * Change secondary
 
-!SLIDE commandline incremental medcode
+!SLIDE commandline incremental
 
 # Replacing disks
 

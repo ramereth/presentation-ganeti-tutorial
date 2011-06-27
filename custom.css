@@ -64,11 +64,16 @@ img {
 }
 
 .smimg img:first-child {
+    padding-top:0;
     height: auto;
-    width: 60%;
-    padding: 0.5em;
+    width: 250px;
 }
 
+.himg img:first-child {
+    padding-top:0;
+    height: 200px;
+    width: auto;
+}
 .sm-vert-img img:first-child {
     padding-top:0;
     height: 400px;
@@ -322,6 +327,10 @@ code {
 
 .commandline code.result {
     color: lime;
+}
+
+.smcommandline pre {
+    line-height: 0.8em;
 }
 
 .center code, pre {

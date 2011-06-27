@@ -1,10 +1,12 @@
 !SLIDE subsec
 
-# Install guest OS support packages
+# Install OS Definition 
 
-!SLIDE smbullets list
+!SLIDE smbullets list rvc
 
 # Instance creation scripts
+
+### also known as OS Definitions
 
 * Requires Operating System installation script
 * Provide scripts to deploy various operating systems
@@ -16,11 +18,11 @@
 # OS Variants
 
 * _Variants_ of the OS Definition
-* Often used for _defining_ operating system
-* Different deployment settings
+* Used for _defining_ guest operating system
+* Types of deployment settings:
   * Filesystem
-  * Image type
   * Image directory
+  * Image Name
 
 !SLIDE commandline bigcode smtitle
 
@@ -47,17 +49,3 @@
 * Shutdown guest
 * Create filesystem _dump_ or _tarball_
 * Place in `IMAGE_DIR`
-
-!SLIDE codeblock incremental rvc bigcode
-
-# Configure Instance Image
-
-### ``/etc/default/ganeti-instance-image``
-
-    IMAGE_TYPE="dump"
-    ARCH="x86_64"
-
-### ``/etc/ganeti/instance-image/variants/debian.conf``
-
-    IMAGE_NAME="debian-6.0.1"
-

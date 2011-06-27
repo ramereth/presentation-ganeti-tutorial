@@ -1,9 +1,11 @@
-!SLIDE bullets list
+!SLIDE center bullets list smimg smtitle
 
 # Instances
 
+![instances](instances.png)
+
 * Virtual machine that _runs_ on the cluster
-* Can be a fault tolerant/HA entity
+* _fault tolerant/HA_ entity within cluster
 
 !SLIDE bullets redcode list
 
@@ -11,14 +13,14 @@
 
 * Hypervisor (called `hvparams`)
 * General (called `beparams`)
-* Per network-card (called `nicparams`)
-* Modified via instance or cluster defaults
+* Networking (called `nicparams`)
+* _Modified_ via instance or cluster defaults
 
 !SLIDE bullets list
 
 # Disk template
 
-* **diskless** : Special purposes
-* **file** : Plain files, no redundancy
-* **plain** : LVM w/ no redundancy
 * **drbd** : LVM + DRBD between 2 nodes
+* **plain** : LVM w/ no redundancy
+* **file** : Plain files, no redundancy
+* **diskless** : Special purposes

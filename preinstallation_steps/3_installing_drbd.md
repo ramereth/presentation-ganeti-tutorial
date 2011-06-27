@@ -1,3 +1,11 @@
+!SLIDE limg center bullets
+
+# DRBD Architecture
+
+![drbd](drbd.png)
+
+* RAID1 over the network
+
 !SLIDE bullets list
 
 # Installing DRBD
@@ -7,12 +15,6 @@
 * Need at least _>=drbd-8.0.12_
 * Depends on distro Support
 * Included in _mainline_
-
-!SLIDE limg center
-
-# DRBD Architecture
-
-![drbd](drbd.png)
 
 !SLIDE codeblock rvc
 

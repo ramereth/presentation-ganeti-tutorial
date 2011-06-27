@@ -2,7 +2,7 @@
 
 # Adding an instance
 
-### Requires at least 4 params
+### Requires at least 5 params
 
 * OS for the instance (`gnt-os list`)
 * Disk template
