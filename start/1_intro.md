@@ -4,5 +4,4 @@
 ## Lance Albertson
 ## Peter Krenesky
 
-#### http://is.gd/osbganeti
-#### http://is.gd/osbganetipdf
+#### http://is.gd/osbganeti | http://is.gd/osbganetipdf
