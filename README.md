@@ -14,6 +14,7 @@ Live Slides for Conferences
 ===========================
 
 * [Open Source Bridge 2011](http://www.lancealbertson.com/slides/ganeti-tutorial-osb11/) - ([pdf](http://www.lancealbertson.com/slides/ganeti-tutorial-osb11/presentation-ganeti-tutorial.pdf))
+* [OSCON 2011](http://www.lancealbertson.com/slides/ganeti-tutorial-oscon11/) - ([pdf](http://www.lancealbertson.com/slides/ganeti-tutorial-oscon11/presentation-ganeti-tutorial.pdf))
 
 Outline
 =======
@@ -24,6 +25,15 @@ Here's an outline of the tutorial as it stands now.
     1. Basic overview
     1. Project history, background, and motivation
     1. Tutorial overview
+1. Hands-on Setup
+    1. Setup guide
+    1. How the Hands-on VMs are setup
+    1. Importing the VM images
+1. Comparing to other projects
+    1. Openstack
+    1. Eucalyptus
+    1. OpenNebula 
+    1. VMWare
 1. Terminology (12min)
     1. Components
     1. Terminology
