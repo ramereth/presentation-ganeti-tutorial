@@ -1,6 +1,7 @@
 {   "name": "Hands on Virtualization with Ganeti",
     "sections": [ 
         {"section":"start"},
+        {"section":"hands_on_setup"},
         {"section":"introduction"},
         {"section":"terminology"},
         {"section":"planning_your_cluster"},
