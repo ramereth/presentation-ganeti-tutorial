@@ -1,10 +1,11 @@
 {   "name": "Hands on Virtualization with Ganeti",
     "sections": [ 
         {"section":"start"},
-        {"section":"hands_on_setup"},
+        {"section":"hands_on_import"},
         {"section":"introduction"},
         {"section":"terminology"},
         {"section":"planning_your_cluster"},
+        {"section":"hands_on_setup"},
         {"section":"preinstallation_steps"},
         {"section":"installing_ganeti"},
         {"section":"instance_management"},
@@ -14,9 +15,6 @@
         {"section":"htools"},
         {"section":"rapi"},
         {"section":"project_roadmap"},
-        {"section":"gwm_overview"},
-        {"section":"gwm_install"},
-        {"section":"gwm_demo"},
         {"section":"ending"}
     ]
 }

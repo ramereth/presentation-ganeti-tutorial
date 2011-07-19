@@ -20,17 +20,17 @@
 ### KVM example
 
     $ gnt-cluster init \
-        --master-netdev=br42 \
+        --master-netdev=br0 \
         --vg-name ganeti \
-        --secondary-ip 192.168.16.140 \
+        --secondary-ip 192.168.16.16 \
         --enabled-hypervisors=kvm \
-        --nic-parameters link=br100 \
+        --nic-parameters link=br0 \
         --backend-parameters \
-            vcpus=2,memory=512M \
+            vcpus=1,memory=128M \
         --hypervisor-parameters \
-            kvm:kernel_path=/boot/guest/vmlinuz \
+            kvm:kernel_path=/boot/vmlinuz-2.6-kvmU \
             vnc_bind_address=0.0.0.0 \
-        ganeti-prod.example.org
+        ganeti.example.org
 
 !SLIDE codeblock rvc bigcode smtitle
 
@@ -38,7 +38,7 @@
 
 ### Master Network Device
 
-    --master-netdev=br42
+    --master-netdev=br0
 
 ### Volume Group Name
 
@@ -46,7 +46,7 @@
 
 ### DRBD Interface
 
-    --secondary-ip 192.168.16.140
+    --secondary-ip 192.168.16.16
 
 ### Enabled Hypervisors
 
@@ -58,18 +58,23 @@
 
 ### Default NIC
 
-    --nic-parameters link=br100
+    --nic-parameters link=br0
 
 ### Default Backend parameters
 
-    --backend-parameters vcpus=2,memory=512M
+    --backend-parameters vcpus=1,memory=128M
 
 ### Default Hypervisor Parameters
 
     --hypervisor-parameters \
-        kvm:kernel_path=/boot/guest/vmlinuz-guest, \
+        kvm:kernel_path=/boot/vmlinuz-2.6-kvmU, \
         vnc_bind_address=0.0.0.0 \
 
 ### Cluster hostname
 
-    ganeti-prod.example.org
+    ganeti.example.org
+
+!SLIDE subsec
+
+# Hands on
+## Ganeti Initialization

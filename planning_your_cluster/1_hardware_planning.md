@@ -16,7 +16,7 @@
 
 * **Cores:** More = better
 * **Speed:** Depends on your uses
-* **Brand:** AMD vs Intel = use case
+* **Brand:** AMD vs Intel
 
 !SLIDE bullets rvc
 
@@ -26,3 +26,13 @@
 
 * **Amount:** More = better
 * **Use case:** Types of services
+
+!SLIDE bullets rvc
+
+# Other considerations
+
+* **RAID**
+* **Redundant** Power
+* Higher **Density**
+* More **nodes**
+* **Network** topology

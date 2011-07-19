@@ -1,9 +1,9 @@
 !SLIDE bullets center himg
 
-# Network Planning
+# Networking
 
 ![networking](networking.png)
 
-* _Bridging_ is most supported
+* _Bridging_ is most widely used
 * _Routed_ networking also supported
-* Nodes on _private NAT_
+* Nodes on _private NAT/VLAN_

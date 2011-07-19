@@ -30,4 +30,4 @@ Presentation made with **_showoff_**
 
 http://github.com/ramereth/presentation-ganeti-tutorial
 
-#### http://is.gd/osbganeti | http://is.gd/osbganetipdf
+#### http://is.gd/osconganeti | http://is.gd/osconganetipdf

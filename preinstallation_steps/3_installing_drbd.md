@@ -4,7 +4,7 @@
 
 ![drbd](drbd.png)
 
-* RAID1 over the network
+* **RAID1** over the network
 
 !SLIDE bullets list
 
