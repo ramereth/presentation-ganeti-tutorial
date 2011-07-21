@@ -3,7 +3,6 @@
         {"section":"start"},
         {"section":"introduction"},
         {"section":"terminology"},
-        {"section":"htools"},
         {"section":"rapi"},
         {"section":"gwm_overview"},
         {"section":"gwm_install"},
