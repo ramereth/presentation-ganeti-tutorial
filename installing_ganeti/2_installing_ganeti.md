@@ -1,6 +1,8 @@
-!SLIDE commandline incremental bigcode
+!SLIDE commandline incremental bigcode rvc
 
 # Install Ganeti
+
+### Note: this is for >=ganeti-2.5
 
     $ ./configure --localstatedir=/var \
         --sysconfdir=/etc \

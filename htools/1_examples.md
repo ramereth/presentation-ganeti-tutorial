@@ -3,9 +3,9 @@
 # Components
 
 * Automatic allocation
-* `hbal` : Cluster rebalancer
-* `hail` : IAllocator script
-* `hspace` : Cluster capacity estimator
+* **hbal** : Cluster rebalancer
+* **hail** : IAllocator script
+* **hspace** : Cluster capacity estimator
 
 !SLIDE commandline incremental
 
@@ -79,3 +79,9 @@
      - INFO: Instance instance1.example.org's disks are in sync.
     * running the instance OS create scripts...
     * starting instance...
+
+!SLIDE subsec
+
+# Hands-on
+
+## Handling Node Failures

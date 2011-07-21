@@ -5,7 +5,6 @@
 ![components](components.png)
 
 * Python
-* various python modules
 * Haskell
 * DRBD
 * LVM

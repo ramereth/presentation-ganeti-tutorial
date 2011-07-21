@@ -51,3 +51,8 @@
     Mon Oct 26 2009 * running the instance OS create scripts...
     Mon Oct 26 2009 * starting instance...
 
+!SLIDE subsec
+
+# 30min break
+
+## Be back at 3:00pm

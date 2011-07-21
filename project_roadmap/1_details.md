@@ -20,3 +20,7 @@
 * Moving instance across node groups
 * Network management
 * Shared storage support
+
+!SLIDE subsec
+
+# Ganeti Web Manager

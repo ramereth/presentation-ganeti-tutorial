@@ -1,6 +1,8 @@
 !SLIDE subsec
 
-# Post-install Steps
+# Hands-on
+
+## Testing Ganeti
 
 !SLIDE commandline bullets list rvc
 

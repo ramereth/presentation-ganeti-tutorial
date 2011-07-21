@@ -1,3 +1,5 @@
-!SLIDE  subsec
+!SLIDE subsec
 
-# Instance HA Features
+# Hands-on
+
+## Instance HA Features

@@ -1,6 +1,7 @@
 !SLIDE subsec
 
-# Initialize Ganeti
+# Hands on
+## Ganeti Initialization
 
 !SLIDE bullets list redcode rvc
 
@@ -11,7 +12,7 @@
 * Cluster hostname _resolvable_ by all nodes
 * IP reserved **exclusively** for the cluster
 * Used by _master_ node
-* i.e.: ``ganeti-prod.example.org``
+* i.e.: ``ganeti.example.org``
 
 !SLIDE commandline rvc medcode
 
@@ -73,8 +74,3 @@
 ### Cluster hostname
 
     ganeti.example.org
-
-!SLIDE subsec
-
-# Hands on
-## Ganeti Initialization

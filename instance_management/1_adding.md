@@ -10,6 +10,12 @@
 * Node or iallocator
 * Instance name (_resolvable_)
 
+!SLIDE subsec
+
+# Hands-on
+
+## Deploying VMs
+
 !SLIDE commandline bigcode
 
 # Add Command
