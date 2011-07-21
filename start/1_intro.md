@@ -1,7 +1,8 @@
 !SLIDE center
 
-# Hands on Virtualization with Ganeti
-## Lance Albertson
-## Peter Krenesky
+# Ganeti Web Manager
+## Cluster Management Made Simple
+### Lance Albertson
+### Peter Krenesky
 
-#### http://is.gd/osconganeti | http://is.gd/osconganetipdf
+#### http://is.gd/oscongwm | http://is.gd/oscongwmpdf

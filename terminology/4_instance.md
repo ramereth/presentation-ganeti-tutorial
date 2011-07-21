@@ -18,26 +18,6 @@
 
 !SLIDE bullets list
 
-# hvparams
-
-* Boot order, CDROM Image
-* NIC Type, Disk Type
-* VNC Parameters, Serial console
-* Kernel Path, initrd, args
-* Other Hypervisor specific parameters
-
-!SLIDE bullets list
-
-# beparams
-# nicparams
-
-* Memory / Virtual CPUs
-* MAC
-* NIC mode (routed or bridged)
-* Link
-
-!SLIDE bullets list
-
 # Disk template
 
 * **drbd** : LVM + DRBD between 2 nodes

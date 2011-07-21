@@ -2,7 +2,7 @@ var timerSetUp = false;
 var timerRunning = false;
 var intervalRunning = false;
 var seconds = 0;
-var totalMinutes = 180;
+var totalMinutes = 35;
 
 function setUpTimer()
 {

@@ -1,10 +1,8 @@
 !SLIDE bullets list
 
-# Tutorial Overview
+# Session Overview
 
-* Ganeti Architecture
-* Installation
-* Virtual machine deployment
-* Cluster Management
-* Dealing with failures
+* Ganeti Basics
 * Ganeti Web Manager
+* GWM Internals
+* Using GWM

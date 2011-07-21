@@ -59,29 +59,3 @@
 
     HTS_ALLOC_INSTANCES=38
     HTS_ALLOC_FAIL_REASON=FAILDISK
-
-!SLIDE commandline incremental
-
-# `hail`
-
-    $ gnt-instance add -t drbd -I hail \
-    $   -s 10G -o image+ubuntu-maverick \
-    $   --net 0:link=br42  instance1.example.org \
-     - INFO: Selected nodes for instance instance1.example.org 
-             via iallocator hail: node1.example.org, node2.example.org
-    * creating instance disks...
-    adding instance instance1.example.org to cluster config
-     - INFO: Waiting for instance instance1.example.org to sync disks.
-     - INFO: - device disk/0:  3.60% done, 1149 estimated seconds remaining
-     - INFO: - device disk/0: 29.70% done, 144 estimated seconds remaining
-     - INFO: - device disk/0: 55.50% done, 88 estimated seconds remaining
-     - INFO: - device disk/0: 81.10% done, 47 estimated seconds remaining
-     - INFO: Instance instance1.example.org's disks are in sync.
-    * running the instance OS create scripts...
-    * starting instance...
-
-!SLIDE subsec
-
-# Hands-on
-
-## Handling Node Failures
