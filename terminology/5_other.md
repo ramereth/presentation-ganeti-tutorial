@@ -7,6 +7,15 @@
 * **htools**
 * External scripts used to compute
 
+!SLIDE bullets list recode
+
+# Components
+
+* Automatic allocation
+* **hbal** : Cluster rebalancer
+* **hail** : IAllocator script
+* **hspace** : Cluster capacity estimator
+
 !SLIDE smtitle bullets list himg center
 
 # _Primary_ & _Secondary_ concepts
