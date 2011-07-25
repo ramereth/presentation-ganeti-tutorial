@@ -14,6 +14,7 @@
         {"section":"job_operations"},
         {"section":"htools"},
         {"section":"node_groups"},
+        {"section":"misc"},
         {"section":"rapi"},
         {"section":"project_roadmap"},
         {"section":"ending"}
