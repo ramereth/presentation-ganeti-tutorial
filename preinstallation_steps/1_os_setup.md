@@ -2,7 +2,7 @@
 
 # Operating System Setup
 
-* Clean ,minimal system install
+* Clean, minimal system install
 * Minimum _20GB_ system volume
 * _Single_ LVM Volume Group for instances
 * 64bit is preferred
