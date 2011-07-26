@@ -55,4 +55,4 @@
 
 # 30min break
 
-## Be back at 3:00pm
+## Be back at 3:30pm
